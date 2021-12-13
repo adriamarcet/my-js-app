@@ -1,0 +1,9 @@
+* { border: 1px solid red; }
+.box {
+    background-image: url('../images/yo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    height: 100px;
+    width: 100px;
+}
